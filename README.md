@@ -1,1 +1,1 @@
-# Athletix-Proxy-Server
+Gemini API Backend Server for Project Athletix!
