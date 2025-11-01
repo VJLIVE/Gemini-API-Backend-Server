@@ -1,1 +1,1 @@
-Gemini API Backend Server for Project Athletix!
+Gemini API Backend Server
