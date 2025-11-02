@@ -1,1 +1,0 @@
-Check the image, only give response in boolean values, if it is regarding Riya Jain and her codechef id, return only true, or else only false.
